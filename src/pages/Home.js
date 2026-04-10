@@ -8,8 +8,8 @@ function Home() {
   return (
     <div>
       <h1>Stack Track Lab</h1>
-      <p>Student ID: {STUDENT_ID}</p>
-      <p>Lab ID: {LAB_ID}</p>
+      <p>Student ID: {23WH1A0534}</p>
+      <p>Lab ID: {LAB2}</p>
 
       {/* TODO: Replace this placeholder with your question set UI */}
       <p>QuestionComponent placeholder — implement your assigned question set here.</p>
